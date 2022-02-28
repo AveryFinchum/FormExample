@@ -1,0 +1,17 @@
+.flexbox-container{
+    height: 24em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.flexbox-item{
+    width: 400px;
+    margin: 2em;
+    border: 2px solid #777
+}
+
+.flexbox-item-type-1{
+    min-height: 3em;
+}
